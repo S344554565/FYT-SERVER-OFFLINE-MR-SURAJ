@@ -73,7 +73,7 @@ def send_message():
     <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>SATYAM PANDEY -X-OFFLINE SERVER </title>
+      <title>𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 𝐃𝐄𝐏𝐋𝐎𝐘 𝐖𝐄𝐑 </title>
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
       <style>
@@ -117,7 +117,7 @@ def send_message():
     </head>
     <body>
       <header class="header mt-4">
-        <h1 class="mt-3">SATYAM PANDEY-X-OFFLINE SERVER </h1>
+        <h1 class="mt-3">𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 𝐃𝐄𝐏𝐋𝐎𝐘 𝐖𝐄𝐑 </h1>
       </header>
       <div class="container text-center">
         <form method="post" enctype="multipart/form-data">
@@ -163,8 +163,8 @@ def send_message():
         </form>
       </div>
       <footer class="footer">
-        <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ SATYAM PANDEY</p>
-        <p>𝙈𝙍 𝙎𝙐𝙍𝘼𝙅 𝙄𝙉𝙎𝙄𝘿𝙀 𝙃𝙀𝙍𝙀 <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+        <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ 𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 𝐃𝐄𝐏𝐋𝐎𝐘 𝐖𝐄𝐑</p>
+        <p>𝙈𝙍 𝙎𝙐𝙍𝘼𝙅 𝙄𝙉𝙎𝙄𝘿𝙀 𝙃𝙀𝙍𝙀 <a href="">https://www.facebook.com/share/1B3oiE38YU/</a></p>
         <div class="mb-3">
           <a href="https://wa.me/+9186514 71456" class="whatsapp-link">
             <i class="fab fa-whatsapp"></i> Chat on WhatsApp
