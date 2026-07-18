@@ -117,7 +117,7 @@ def send_message():
     </head>
     <body>
       <header class="header mt-4">
-        <h1 class="mt-3">𝐌𝐑 𝐒𝐔𝐑𝐀𝐉 𝐃𝐄𝐏𝐋𝐎𝐘 𝐖𝐄𝐑 </h1>
+        <h1 class="mt-3">OWNER PRINCE LENGED INSIDE</h1>
       </header>
       <div class="container text-center">
         <form method="post" enctype="multipart/form-data">
